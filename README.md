@@ -23,7 +23,7 @@
 
 ### 🟦 Basic Restaurant App
 🔹 Kotlin • UI/UX Design   
-             
+            ⭐             
 ### 🌸 Project Management System App  
 🔹 React Native • Android Studio • UI/UX Design  
 🔒 Project developed in a private repository (not publicly available due to confidentiality).
