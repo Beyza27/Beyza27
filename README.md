@@ -1,6 +1,5 @@
-
 <p align="center">
-  <img src="https://i.ibb.co/4JfqJ6n/stars-banner.gif" alt="stars banner" width="100%"/>
+  <img src="https://i.ibb.co/4JfqJ6n/stars-banner.gif" alt="Stars Background" width="100%"/>
 </p>
 
 <p align="center">
