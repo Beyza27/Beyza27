@@ -6,8 +6,8 @@
 <p align="center">
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Hello Cat" width="150"/>
 </p>
-
 <h1 align="center">👋 Hi, I'm Beyza</h1>
+<h2 align="center">Learning and growing with every project</h2>
 <h3 align="center">📱 Junior Mobile Developer | React Native | UI/UX Designer </h3>
 <p align="center">
   <i>"Building user-friendly mobile apps with purpose"</i> ✨
