@@ -10,11 +10,11 @@
 <h3 align="center">Learning and growing with every project</h3>
 <h3 align="center">📱 Junior Mobile Developer | React Native | UI/UX Designer </h3>
 <p align="center">
-  <i>"Building user-friendly mobile apps with purpose"</i> ✨
+  <i>"Building user-friendly mobile apps with purpose"</i>  ✨
 </p>
 
 ---
-<h1 align="center">Connect With Me :</h1>
+✨ <h1 align="center">Connect With Me :</h1>
 <p align="center">
   <a href="https://www.linkedin.com/in/beyza-yurdabakan-37419727a"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
